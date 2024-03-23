@@ -6,7 +6,7 @@ This is a project that includes both frontend and backend components. It is desi
 
 - **Frontend Framework:** Next.js
 
-- **Backend Framework:** Go (Golang)
+- **Backend:** Go (Golang)
 
 - **Database:** SQLite
 
