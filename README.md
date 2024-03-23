@@ -15,11 +15,15 @@ This is a project that includes both frontend and backend components. It is desi
 # How to run it
 
 ### Locally
-- Open a new terminal and go tor the backend directory (```cd backend```)
-        ```go run .```
-- Open a new terminal and go tor the frontend directory (```cd frontend```)
-        ```npm i (to install)```
-        ```npm run dev```
+- Open a new terminal and go tor the backend directory (```cd backend```)  
+
+    ```go run .```
+
+- Open a new terminal and go tor the frontend directory (```cd frontend```)  
+
+    ```npm i (to install)``` 
+
+   ```npm run dev```
 
 ### Docker
 
